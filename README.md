@@ -5,15 +5,12 @@ A Smart-shop is an Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://smart-shop-psi.vercel.app/ 
+https://trendy-shop-virid.vercel.app/ 
 
 ## Features
 
 - Easy to integrate with Backend
 - Fully Responsive
-
-## Project Description
-The project Description can be found in my google [slide](https://docs.google.com/presentation/d/1D6xLbNq0l6w3QGvJrw7gWGuXnmxmtI0mvUoHBokyatY/edit?usp=sharin)
 
 ## Screenshots
 
